@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main ()
+{
+    int a=20;
+    int b=10;
+    int c=20;
+    //greater than
+    printf("a>b=%d\n",a>b);
+    //less than
+    printf("a<b=%d\n",a<b);
+    //equal to
+    printf("a==b %d\n",a==b);
+    printf("a==c %d\n",a==c);
+    // not equal to
+    printf("a!=c %d\n",a!=c);
+    printf("a!=b %d\n",a!=b);
+    //greater than or equal to
+    printf("a>=b %d\n",a>=b);
+    printf("a>=c %d\n",a>=c);
+    //lesss than or equal to
+    printf("b<=c %d\n",b<=c);
+    printf("b<=a %d\n",b<=a);
+   
+    return 0;
+}
