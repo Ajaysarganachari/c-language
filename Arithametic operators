@@ -1,0 +1,38 @@
+#include<stdio.h>
+int main()
+{
+    //add
+    int a=10;
+    int b=20;
+    int c=a+b;
+    printf("c=%d\n",c);
+
+    //subtract
+    int x=20;
+    int y=5;
+    int z=x-y;
+    printf("z=%d\n",z);
+    
+    //multiply
+    int k=15;
+    int l=3;
+    int m=k*l;
+    printf("m=%d\n",m);
+
+    // divison
+    int t=20;
+    int s=10;
+    int w=t/s;
+    printf("w=%d\n",w);
+
+    //increment
+    int n=20;
+    n++;
+    printf("n=%d\n",n);
+
+    //decrement
+    int d=15;
+    d--;
+    printf("d=%d",d);
+    return 0;
+}
