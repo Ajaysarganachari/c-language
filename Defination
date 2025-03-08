@@ -1,0 +1,17 @@
+1.Token: The smallest unit of a C program, which includes keywords, identifiers, operators, constants, and punctuation.
+
+2.Variable: A named memory location used to store data that can change during the program's execution.
+
+3.Identifier: A name used to identify variables, functions, arrays, or other user-defined items in a C program.
+
+4.Array: A collection of elements, all of the same data type, stored in contiguous memory locations.
+
+5.Conditional Statement: A statement that allows a program to execute certain code based on whether a condition is true or false (e.g., if, else, switch).
+
+6.Loop: A control structure used to repeatedly execute a block of code while a condition is true or for a specific number of iterations (e.g., for, while, do-while).
+
+7.String: A sequence of characters terminated by a null character ('\0').
+
+8.Function: A block of code that performs a specific task and can return a value.
+
+9.Data Type: Defines the type of data a variable can hold, such as int, float, char, etc.
